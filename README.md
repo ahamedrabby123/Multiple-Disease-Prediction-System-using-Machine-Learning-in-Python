@@ -1,1 +1,0 @@
-# Multiple-Disease-Prediction-System-using-Machine-Learning-in-Python
